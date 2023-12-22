@@ -3,3 +3,5 @@ chat_venv/
 
 #Ignore all sensitive information
 .env
+
+ngrok.exe
