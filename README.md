@@ -6,6 +6,11 @@
 The implemented chatbot, underpinned by a FastAPI-driven backend in Python, serves as a proficient system for order acquisition and monitoring, affording users an intuitive experience through natural language interactions. The backend structure, facilitated by FastAPI, ensures robust communication between the chatbot and a MySQL database, thereby facilitating the efficient storage and retrieval of customer information. With a primary focus on order placement and tracking functionalities, the chatbot emerges as a user-friendly platform adept at addressing consumer purchase requirements. This project underscores the amalgamation of contemporary technologies, utilizing FastAPI for expeditious development and MySQL for structured data management. Such a synthesis provides a dependable and scalable solution for businesses seeking to optimize their customer service and order management processes.
 
 
+## Demo Video: 
+
+https://github.com/anisharma1/Dialogflow-Misha-Chatbot/assets/111197294/29e3d956-6779-4998-993d-f38a7e7384a4
+
+
 ## How to Run:
 
 1. Open the project's root folder "Dialogflow-Misha-Chatbot"
