@@ -1,0 +1,5 @@
+# Ignore chat_venv folder
+chat_venv/
+
+#Ignore all sensitive information
+.env
